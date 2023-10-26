@@ -16,7 +16,7 @@ const experience = () => {
           <ol>
             <li>Developed dynamic e-commerce sites with React, Node.js, and MongoDB, boosting sales by 30%.</li>
             <li>Expertise in HTML5, CSS3, JavaScript, and collaboration with cross-functional teams for seamless UX/UI.</li>
-            <li>Proven track record in optimizing performance, deploying on platforms like Heroku.</li>
+            <li>Proven track record in optimizing performance, deploying on platform</li>
           </ol>
       </div>
       </div>
